@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Claussimar\source\repos\ClubDeportivoApp\ClubDeportivoApp\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Carnet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HabilitarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImprimirCarnetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaMorososForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListarClientesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PagarActForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PagarCuotaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegNoSocioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegSocioForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
